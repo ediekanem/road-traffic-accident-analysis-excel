@@ -4,7 +4,7 @@ Excel dashboard project analyzing road traffic accident trends, severity, and ke
 
 ## Overview
 
-This project analyzes road traffic accident data to identify patterns in accident frequency, severity, and key risk factors. Using Microsoft Excel, the dataset was cleaned and standardized, descriptive analysis was performed, KPIs were developed, and an interactive dashboard was built to support data-driven road safety recommendations.
+This project analyzes road traffic accident data to identify patterns in accident frequency, severity, and key risk factors. Using Microsoft Excel, I cleaned and standardized the raw dataset, performed descriptive analysis, developed KPIs, and built an interactive dashboard to support data-driven road safety recommendations.
 
 ## Business Problem
 
