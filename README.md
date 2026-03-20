@@ -70,9 +70,10 @@ Interactive Excel dashboard showing accident trends, severity patterns, and geog
 
 ## Project Files
 
-- `CoreTech_Labs_Excel Workbook.xlsx`
-- `dashboard-preview.jpg`
-- `Project Overview.docx`
+- `CoreTech_Labs_Excel_Workbook.xlsx`
+- `road-accident-overview-dashboard-preview.jpg`
+- `road-accident-risk-factors-dashboard-preview.jpg`
+- `CoreTech_Labs_Project_Overview.docx`
 
 ## What This Project Demonstrates
 
