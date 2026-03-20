@@ -45,11 +45,17 @@ The dataset includes road traffic accident records with variables such as:
 - Developed an interactive dashboard with slicers for year, accident severity, urban/rural area, and local authority
 - Summarized findings and recommendations in a reporting slide deck
 
-## Dashboard Preview
+## Dashboard Previews
 
-![Road Traffic Accident Dashboard](dashboard-preview.jpg)
+### Road Traffic Accident Overview Dashboard
+![Road Traffic Accident Overview Dashboard Preview](road-accident-overview-dashboard-preview.jpg)
 
-Interactive Excel dashboard showing accident trends, severity patterns, and geographic hotspots.
+Interactive Excel dashboard showing accident trends, frequency, vehicle type, timing, and geographic distribution.
+
+### Accident Severity and Risk Factors Dashboard
+![Accident Severity and Risk Factors Dashboard](road-accident-risk-factors-dashboard-preview.jpg)
+
+Interactive Excel dashboard showing accident severity, contributing risk factors, and severe accident hotspots.
 
 ## Key Insights
 
