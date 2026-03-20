@@ -77,4 +77,4 @@ Interactive Excel dashboard showing accident trends, severity patterns, and geog
 
 ## What This Project Demonstrates
 
-This project demonstrates the ability to use Excel as an analytics and reporting tool for decision support, covering the full workflow from raw data cleaning and analysis through dashboard creation, insight development, and recommendation communication.
+This project demonstrates my ability to use Excel as an analytics and reporting tool for decision support. It shows that I can work through the full analytics process, from cleaning raw data and performing analysis to building dashboards, identifying insights, and communicating recommendations clearly.
