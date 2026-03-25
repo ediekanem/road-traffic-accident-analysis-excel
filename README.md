@@ -79,7 +79,7 @@ Interactive Excel dashboard showing accident severity, contributing risk factors
 - `CoreTech_Labs_Excel_Workbook.xlsx`
 - `road-accident-overview-dashboard-preview.jpg`
 - `road-accident-risk-factors-dashboard-preview.jpg`
-- `CoreTech_Labs_Presentation_Slides.ppt`
+- `CoreTech_Labs_Presentation_Slides.pptx`
 - `CoreTech_Labs_Project_Overview.docx`
 
 ## What This Project Demonstrates
